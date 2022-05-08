@@ -60,6 +60,7 @@ http://localhost:8090 접속화면
 
 상담사용 화면
 > 로그인 화면
+> admin / 1234, admin1 /1234 , admin2 / 1234 로 로그인 가능
 > ![login](https://user-images.githubusercontent.com/31990955/167297975-b4e6fe92-2833-4712-9795-5ce3bc28226c.jpg)
 > 
 > 문의 목록 조회 화면
