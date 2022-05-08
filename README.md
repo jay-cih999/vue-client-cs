@@ -46,27 +46,40 @@ npm run test:unit
 
 http://localhost:8090 접속화면
 
-![home](https://user-images.githubusercontent.com/31990955/167297668-3ab26dfd-4e9c-4bb8-82cd-f1fce16bd5a1.jpg){: width="100" height="250"}
+![home](https://user-images.githubusercontent.com/31990955/167297668-3ab26dfd-4e9c-4bb8-82cd-f1fce16bd5a1.jpg)
 
 사용자용 화면
 > 문의 목록 조회 화면
-> ![qna_view](https://user-images.githubusercontent.com/31990955/167297729-9a2734c2-b2c7-4b23-9d2b-a074231d9021.jpg){: width="100" height="100"}
+> ![qna_view](https://user-images.githubusercontent.com/31990955/167297729-9a2734c2-b2c7-4b23-9d2b-a074231d9021.jpg)
+> 
 > 문의 등록 화면
 > ![register](https://user-images.githubusercontent.com/31990955/167297914-4acb8a5f-aeaa-40db-a3cb-cbe3b2d04dfb.jpg)
+> 
 > 문의 상세 조회 화면 
 > ![detail](https://user-images.githubusercontent.com/31990955/167297934-9257fbe8-b11f-42fc-8cc8-95976eb3c121.jpg)
 
 상담사용 화면
 > 로그인 화면
 > ![login](https://user-images.githubusercontent.com/31990955/167297975-b4e6fe92-2833-4712-9795-5ce3bc28226c.jpg)
+> 
 > 문의 목록 조회 화면
 > ![adminview](https://user-images.githubusercontent.com/31990955/167298003-ca4430ab-8205-408f-8b7a-3ab39383334a.jpg)
+> 
 > 문의 조회 및 할당 버튼 화면
 > ![assign](https://user-images.githubusercontent.com/31990955/167298028-92dce5c7-0d5a-4e68-9a41-fcdf6145fa98.jpg)
+> 
 > 문의 조회 및 답변 화면
 > ![complete](https://user-images.githubusercontent.com/31990955/167298075-cb037c0e-aed3-48cc-8d04-a6961d5129e8.jpg)
-> 이미 완료된 문의 출력
+> 
+> 이미 완료된 문의일 경우 출력 출력
 > ![already](https://user-images.githubusercontent.com/31990955/167298103-fd606a39-20d1-432f-a607-bf76a3d9b96c.jpg)
+> 
+> 다른 상담사에게 할당 된 문의일 경우 출력 화면
+> ![그림10](https://user-images.githubusercontent.com/31990955/167298669-d05d993a-79dc-4c07-9fa7-29cc17269022.jpg)
+
+
+
+
 
 
 
