@@ -63,6 +63,10 @@ http://localhost:8090 접속화면
 > ![adminview](https://user-images.githubusercontent.com/31990955/167298003-ca4430ab-8205-408f-8b7a-3ab39383334a.jpg)
 > 문의 조회 및 할당 버튼 화면
 > ![assign](https://user-images.githubusercontent.com/31990955/167298028-92dce5c7-0d5a-4e68-9a41-fcdf6145fa98.jpg)
+> 문의 조회 및 답변 화면
+> ![complete](https://user-images.githubusercontent.com/31990955/167298075-cb037c0e-aed3-48cc-8d04-a6961d5129e8.jpg)
+> 이미 완료된 문의 출력
+> ![already](https://user-images.githubusercontent.com/31990955/167298103-fd606a39-20d1-432f-a607-bf76a3d9b96c.jpg)
 
 
 
