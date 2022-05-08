@@ -46,11 +46,11 @@ npm run test:unit
 
 http://localhost:8090 접속화면
 
-![home](https://user-images.githubusercontent.com/31990955/167297668-3ab26dfd-4e9c-4bb8-82cd-f1fce16bd5a1.jpg)
+![home](https://user-images.githubusercontent.com/31990955/167297668-3ab26dfd-4e9c-4bb8-82cd-f1fce16bd5a1.jpg){: width="100" height="250"}
 
 사용자용 화면
 > 문의 목록 조회 화면
-> ![qna_view](https://user-images.githubusercontent.com/31990955/167297729-9a2734c2-b2c7-4b23-9d2b-a074231d9021.jpg)
+> ![qna_view](https://user-images.githubusercontent.com/31990955/167297729-9a2734c2-b2c7-4b23-9d2b-a074231d9021.jpg){: width="100" height="100"}
 > 문의 등록 화면
 > 문의 상세 조회 화면 
 
