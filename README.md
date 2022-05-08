@@ -52,6 +52,18 @@ http://localhost:8090 접속화면
 > 문의 목록 조회 화면
 > ![qna_view](https://user-images.githubusercontent.com/31990955/167297729-9a2734c2-b2c7-4b23-9d2b-a074231d9021.jpg){: width="100" height="100"}
 > 문의 등록 화면
+> ![register](https://user-images.githubusercontent.com/31990955/167297914-4acb8a5f-aeaa-40db-a3cb-cbe3b2d04dfb.jpg)
 > 문의 상세 조회 화면 
+> ![detail](https://user-images.githubusercontent.com/31990955/167297934-9257fbe8-b11f-42fc-8cc8-95976eb3c121.jpg)
+
+상담사용 화면
+> 로그인 화면
+> ![login](https://user-images.githubusercontent.com/31990955/167297975-b4e6fe92-2833-4712-9795-5ce3bc28226c.jpg)
+> 문의 목록 조회 화면
+> ![adminview](https://user-images.githubusercontent.com/31990955/167298003-ca4430ab-8205-408f-8b7a-3ab39383334a.jpg)
+> 문의 조회 및 할당 버튼 화면
+> ![assign](https://user-images.githubusercontent.com/31990955/167298028-92dce5c7-0d5a-4e68-9a41-fcdf6145fa98.jpg)
+
+
 
 
